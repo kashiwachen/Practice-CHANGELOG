@@ -1,10 +1,15 @@
 <a name="unreleased"></a>
 ## [Unreleased]
 
+### Docs
+- add readme
+- update CHANGELOG with tag
+
 
 <a name="v0.1.1"></a>
 ## [v0.1.1] - 2023-01-29
 ### Docs
+- update CHANGELOG
 - add changelog
 
 
