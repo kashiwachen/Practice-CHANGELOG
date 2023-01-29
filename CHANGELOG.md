@@ -1,9 +1,11 @@
 <a name="unreleased"></a>
 ## [Unreleased]
 
+
+<a name="v0.1.2"></a>
+## [v0.1.2] - 2023-01-29
 ### Docs
 - add readme
-- update CHANGELOG with tag
 
 
 <a name="v0.1.1"></a>
@@ -19,5 +21,6 @@
 - add git-chglog config
 
 
-[Unreleased]: https://github.com/kashiwachen/Practice-CHANGELOG/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/kashiwachen/Practice-CHANGELOG/compare/v0.1.2...HEAD
+[v0.1.2]: https://github.com/kashiwachen/Practice-CHANGELOG/compare/v0.1.1...v0.1.2
 [v0.1.1]: https://github.com/kashiwachen/Practice-CHANGELOG/compare/v0.1.0...v0.1.1
